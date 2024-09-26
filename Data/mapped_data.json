@@ -1,0 +1,16 @@
+{
+    "3_object_0.png": {
+        "description": {
+            "description": "Identified as: road sign"
+        },
+        "text": "STOP",
+        "summary": "No summary available."
+    },
+    "3_object_1.png": {
+        "description": {
+            "description": "Identified as: car"
+        },
+        "text": "No text available",
+        "summary": "No summary available."
+    }
+}

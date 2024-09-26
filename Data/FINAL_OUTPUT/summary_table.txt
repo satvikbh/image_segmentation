@@ -1,0 +1,3 @@
+Object ID	Description	Text	Summary
+3_object_0.png	{'description': 'Identified as: road sign'}	STOP	No summary available.
+3_object_1.png	{'description': 'Identified as: car'}	No text available	No summary available.
